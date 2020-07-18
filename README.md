@@ -1,16 +1,23 @@
 ### Hi there 👋
 
-<!--
-**hick97/hick97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Welcome to my profile!
 
-Here are some ideas to get you started:
+# Some facts about me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Bachelor of Computer Science.
+- I'm Software developer with focus on Frontend developement, currently working from home.
+- I'm passionate for React ecossystem, but a I like to test other technologies.
+- On my free time I like to study about investments, economics and entrepreneurship.
+
+# Personal projects:
+
+- [BrStocksBot](https://t.me/brstocksbot)
+  - A Telegram bot to provide information about brazilian stocks.
+  - More information: [check here](https://www.instagram.com/brstocksbot)
+
+# Social:
+
+- [Linkedn](https://www.linkedin.com/in/henrique-augusto-84b490133/)
+- [Github](https://github.com/hick97?tab=repositories)
+- Mail: hick_97@hotmail.com
+
