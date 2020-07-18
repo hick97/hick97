@@ -10,12 +10,12 @@
 
 ### Personal projects:
 
-- :robot: [BrStocksBot](https://t.me/brstocksbot)
+- [@brstocksbot](https://t.me/brstocksbot) :robot: 
   - A Telegram bot to provide information about brazilian stocks.
   - More information: [check here](https://www.instagram.com/brstocksbot).
 
 ### Social:
 - [LinkedIn](https://www.linkedin.com/in/henrique-augusto-84b490133/)
 - [Github](https://github.com/hick97?tab=repositories)
-- hick_97@hotmail.com
+- [Mail](hick_97@hotmail.com)
 
