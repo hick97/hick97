@@ -4,7 +4,7 @@
 
 ### Some facts about me:
 
-- Bachelor of Computer Science.
+- I have Bachelor's degree in Computer Science.
 - I'm Software developer with focus on Frontend developement, currently working from home.
 - I'm passionate for React ecossystem, but a I like to test other technologies.
 - On my free time I like to study about investments, economics and entrepreneurship.
