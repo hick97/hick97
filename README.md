@@ -3,7 +3,7 @@
 ### Welcome to my profile!
 
 ### Some facts about me:
-- :mortar_board: I have Bachelor's degree in Computer Science.
+- :mortar_board: Degree in Computer Science.
 - :computer: I'm Software developer with focus on Frontend developement, currently working from home.
 - :electron: I'm passionate for React ecossystem, but a I like to test other technologies.
 - :money_with_wings: On my free time I like to study about investments, economics and entrepreneurship.
