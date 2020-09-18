@@ -9,10 +9,11 @@
 - :bulb: I like to test other technologies, concepts and paradigms.
 - :money_with_wings: On my free time I like to study about investments, economics and entrepreneurship.
 
-### Personal projects:
+### Projects:
 
-- [@brstocksbot](https://t.me/brstocksbot) :robot: 
-  - A Telegram bot to provide information about brazilian stocks.
+- [Bot do Investidor (@brstocksbot)](https://t.me/brstocksbot) :robot:
+  - Open Source soon :eyes:
+  - A [Telegram bot](https://t.me/brstocksbot) to provide information about brazilian stocks.
   - More information: [check here](https://www.instagram.com/brstocksbot).
 
 ### Social:
