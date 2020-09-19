@@ -13,7 +13,7 @@
 ### Projects:
 
 - [Bot do Investidor (@brstocksbot)](https://t.me/brstocksbot) :robot:
-  - A [Telegram bot](https://t.me/brstocksbot) to provide information about brazilian stocks (Open Source soon :eyes:).
+  - A Telegram bot to provide information about brazilian stocks (Open Source soon :eyes:).
   
 
 ### Skills
