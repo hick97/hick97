@@ -10,17 +10,17 @@
 - :bulb: I like to test other technologies, concepts and paradigms.
 - :money_with_wings: On my free time I like to study about investments, economics and entrepreneurship.
 
-### Projects:
+### Nice projects:
 
 - [Bot do Investidor (@brstocksbot)](https://t.me/brstocksbot) :robot:
   - A Telegram bot to monitor your brazilian stocks wallet (Open Source soon :eyes:).
 
 ### Stats
 
-<div display="inline">
-  <img alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=hick97&hide=issues&count_private=true&show_icons=true" />
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hick97&layout=compact&hide=PHP,Java&langs_count=8" />
-</div>
+<p>
+  <img width="480px" alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=hick97&hide=issues&count_private=true&show_icons=true&theme=dark&icon_color=ffffff" />
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hick97&layout=compact&hide=PHP,Java&langs_count=8&theme=dark" />
+</p>
 
 ### Skills
 
