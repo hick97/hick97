@@ -13,7 +13,10 @@
 ### Nice projects:
 
 - [Bot do Investidor (@brstocksbot)](https://t.me/brstocksbot) :robot:
-  - A Telegram bot to monitor your brazilian stocks wallet;
+  - **A Telegram bot to brazilian investors**:
+    - Manage your stocks wallet;
+    - Receive reports and notifications;
+    - Check companies indicators.
 
 ### Stats
 
