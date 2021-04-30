@@ -21,7 +21,7 @@
 ### Stats
 
 <p>
-  <img width="480px" alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=hick97&hide=issues&count_private=true&show_icons=true&theme=dark&icon_color=ffffff" />
+  <img height="190px" alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=hick97&hide=issues&count_private=true&show_icons=true&theme=dark&icon_color=ffffff" />
   <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hick97&layout=compact&hide=PHP,Java&langs_count=8&theme=dark" />
 </p>
 
