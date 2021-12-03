@@ -5,7 +5,7 @@
 ### Some facts about me:
 
 - :mortar_board: Degree in Computer Science.
-- :computer: I'm Software developer with focus on Frontend development.
+- :computer: I'm Software Engineer with focus on Frontend development.
 - :electron: I'm passionate for React ecossystem :blue_heart:
 - :bulb: I like to test other technologies, concepts and paradigms.
 - :money_with_wings: On my free time I like to study about investments, economics and entrepreneurship.
